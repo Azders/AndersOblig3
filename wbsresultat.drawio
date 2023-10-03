@@ -1,11 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T23:09:20.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="zKKsussoicZZo569wjo1" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T23:44:48.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="27ueQcZA245oAdgL7Q3p" version="22.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2901" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-86" target="G2nF_cRTzTYgWaF174XV-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="233" />
+              <mxPoint x="300" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-177" value="Forespør informasjon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-175">
+          <mxGeometry x="0.2516" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-86" value="&lt;b&gt;Bruker 1 / Barnefamilie&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="50" width="160" height="90" as="geometry" />
+          <mxGeometry x="-10" y="210" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-87" value="Hensikt?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-86">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -13,27 +26,31 @@
         <mxCell id="G2nF_cRTzTYgWaF174XV-88" value="Krav" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-86">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-96" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; Kommunen&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="60" width="200" height="40" as="geometry" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-96" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; Kommunen&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="330" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-97" target="G2nF_cRTzTYgWaF174XV-100">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-97" target="G2nF_cRTzTYgWaF174XV-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="250" />
-              <mxPoint x="660" y="125" />
+              <mxPoint x="370" y="590" />
+              <mxPoint x="240" y="590" />
+              <mxPoint x="240" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Svar på forespørsel&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-114">
-          <mxGeometry x="0.2554" y="2" relative="1" as="geometry">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-187" value="Mottar informasjon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-186">
+          <mxGeometry x="0.0426" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-97" value="* Innehar nyeste data fra DB*" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="100" width="200" height="200" as="geometry" />
+          <mxGeometry x="370" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-157" value="Knyttepunkt for mottakelse og&lt;br&gt;&amp;nbsp;deling av informasjon&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-97">
+          <mxGeometry x="10" y="40" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-98" value="&lt;b&gt;Bruker 2 / Byggentreprenør&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="50" width="160" height="90" as="geometry" />
+          <mxGeometry x="-10" y="450" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-99" value="Hensikt?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-98">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -41,126 +58,70 @@
         <mxCell id="G2nF_cRTzTYgWaF174XV-100" value="Krav" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-98">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-101">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-121" value="Mottar data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-119">
-          <mxGeometry x="-0.3157" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-101" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;&amp;nbsp;Database&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="257.5" y="380" width="325" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-87" target="G2nF_cRTzTYgWaF174XV-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-109" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sender informasjon&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-108">
-          <mxGeometry x="-0.0196" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="250.99" as="sourcePoint" />
-            <mxPoint x="120" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="252" />
-              <mxPoint x="180" y="252" />
-              <mxPoint x="180" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-111" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Henter informasjon&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-110">
-          <mxGeometry x="0.1832" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-99" target="G2nF_cRTzTYgWaF174XV-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sender forespørsel&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-112">
-          <mxGeometry x="-0.0118" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.346;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-97" target="G2nF_cRTzTYgWaF174XV-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-120" value="Søker oppdatert informasjon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-118">
-          <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-123" value="Realiserer utbygging" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="180" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-100" target="G2nF_cRTzTYgWaF174XV-123">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="125" />
-              <mxPoint x="900" y="150" />
-              <mxPoint x="800" y="150" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="10" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-125" value="Tar beslutning" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-88" target="G2nF_cRTzTYgWaF174XV-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-131" value="Statistikk fra SSB" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="410" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-131" target="G2nF_cRTzTYgWaF174XV-101">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-131" target="G2nF_cRTzTYgWaF174XV-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-133" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Henter ut nyeste data&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-132">
-          <mxGeometry x="-0.0645" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-171" value="Oppdatert statistikk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-170">
+          <mxGeometry x="0.2177" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-134">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="360" />
-              <mxPoint x="620" y="270" />
-            </Array>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-131" value="Statistikk fra SSB" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-134" target="G2nF_cRTzTYgWaF174XV-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-169" value="Laster opp informasjon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-167">
+          <mxGeometry x="0.0697" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-141" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sender over informasjon&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-140">
-          <mxGeometry x="0.1394" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-134" value="&lt;b&gt;Barnehage X&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-134" value="&lt;b&gt;Bruker 3 / Barnehage X&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="360" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-135" value="Hensikt?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-134">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-135" value="Ledige plasser" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-134">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-136" value="Krav" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-134">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-136" value="Geografisk lokasjon &amp;amp;&lt;br&gt;relevant informasjon" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2nF_cRTzTYgWaF174XV-134">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.006;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-97">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="320" as="sourcePoint" />
-            <mxPoint x="719.04" y="437" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="320" />
-              <mxPoint x="570" y="320" />
-              <mxPoint x="570" y="410" />
-              <mxPoint x="700" y="410" />
-              <mxPoint x="700" y="437" />
-            </Array>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-100" target="G2nF_cRTzTYgWaF174XV-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-151" target="G2nF_cRTzTYgWaF174XV-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-174" value="Henter ny data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-172">
+          <mxGeometry x="-0.5509" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-143" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mottar informasjon&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-142">
-          <mxGeometry x="0.2846" y="1" relative="1" as="geometry">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-151" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Database&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="40" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.013;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-97" target="G2nF_cRTzTYgWaF174XV-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-180" value="Mottar informasjon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-179">
+          <mxGeometry x="0.0051" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-99" target="G2nF_cRTzTYgWaF174XV-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-185" value="Forespør informasjon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G2nF_cRTzTYgWaF174XV-184">
+          <mxGeometry x="-0.0204" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
