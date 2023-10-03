@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T22:00:05.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="X-vs9VLPIa84AtlpTiVL" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T22:15:19.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5WRrcAHxJVO06jzTUmgI" version="22.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,22 +24,11 @@
         <mxCell id="G2nF_cRTzTYgWaF174XV-1" value="Ålesund kommune ved barnehage og oppvekstetaten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="565" y="40" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="340" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-5" value="Oppir relevant informasjon (antall barn, alder osv)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="288.5" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-5" value="Oppir nødvendig informasjon (antall barn, alder osv)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-7" value="Registrerer seg systemet sin nettside" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="800" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="850" width="30" height="10" as="geometry" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-7" value="Registrerer seg på systemet sin nettside" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="170" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -47,32 +36,13 @@
             <mxPoint x="169.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="G2nF_cRTzTYgWaF174XV-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="690" as="sourcePoint" />
-            <mxPoint x="685" y="690" as="targetPoint" />
+            <mxPoint x="395.5" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="670" as="sourcePoint" />
-            <mxPoint x="695" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="705" y="680" as="sourcePoint" />
-            <mxPoint x="705" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="347" y="339.5" as="sourcePoint" />
-            <mxPoint x="317" y="339.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-18" value="Oppdatert data om:&lt;br&gt;Antall barnehageplasser&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="129" width="151" height="151" as="geometry" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-18" value="&lt;b&gt;Oppdatert data om:&lt;/b&gt;&lt;br&gt;Nåværende tilgjengelige&lt;br&gt;barnehageplasser,&lt;br&gt;fremtidig behov for antall barnehage plasser&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="137.5" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="G2nF_cRTzTYgWaF174XV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-20" target="G2nF_cRTzTYgWaF174XV-18">
           <mxGeometry relative="1" as="geometry" />
@@ -80,11 +50,26 @@
         <mxCell id="G2nF_cRTzTYgWaF174XV-20" value="Oppdaterer kontinuerlig antall ledige plasser, samtidig som beregnet behov for antall leldige plasser de neste 10 årene basert på vekst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="153" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-26" value="Ja/Nei" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-32" value="Byggentreprenør" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="460" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G2nF_cRTzTYgWaF174XV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.133;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G2nF_cRTzTYgWaF174XV-26" target="G2nF_cRTzTYgWaF174XV-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G2nF_cRTzTYgWaF174XV-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="460" as="sourcePoint" />
+            <mxPoint x="660" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="360" as="sourcePoint" />
+            <mxPoint x="520" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2nF_cRTzTYgWaF174XV-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="270" as="sourcePoint" />
+            <mxPoint x="471" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
